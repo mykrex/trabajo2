@@ -4,7 +4,7 @@ import Navigation from "../components/Navigation";
 
 type ColorKey = 'gray' | 'blue' | 'green' | 'yellow' | 'red';
 
-export default function Home(){
+export default function Page1(){
 
     const [color, setColor] = useState<ColorKey>("gray");
 

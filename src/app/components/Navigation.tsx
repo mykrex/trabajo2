@@ -10,6 +10,10 @@ export default function Navigation() {
         <Link href="/page1" className="text-white text-2xl">
         Page 1
         </Link>
+
+        <Link href="/login" className="text-white text-2xl">
+        Login
+        </Link>
         
     </header>;
 }
