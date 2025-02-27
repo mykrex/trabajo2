@@ -12,7 +12,7 @@ export default function Navigation() {
         </Link>
 
         <Link href="/login" className="text-white text-2xl">
-        Login
+        Log in
         </Link>
         
     </header>;
