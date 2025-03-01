@@ -17,7 +17,7 @@ export default function Counter(){
     }
 
     return (
-        <div className="grid grid-rows-[20px_1fr_20px] items-center justify-intems-center min-h-screen py-10">
+        <div className="grid grid-rows-[auto_1fr_auto] items-center justify-items-stretch min-h-screen w-full">
             <Navigation/>
         
             <main className="flex flex-col gap-8 row-start-2 items-center justify-items-center">

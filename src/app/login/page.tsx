@@ -41,7 +41,7 @@ export default function Login(){
     }
 
     return (
-        <div className="grid grid-rows-[20px_1fr_20px] items-center items-justify-center minh-screen py-10">
+        <div className="grid grid-rows-[auto_1fr_auto] items-center justify-items-stretch minh-screen w-full">
             <Navigation/>
 
             <main className="relative flex flex-col gap-8 row-start-2 items-center justify-items-center py-16">
